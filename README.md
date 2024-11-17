@@ -5,4 +5,4 @@ Simple bash script which will configure gnome for my very personal preferences. 
 * activate weekdays in calendar widget
 * switch windows instead of applications with alt + tab: The default setting will group windows of same application and you have to use cursor keys to navigate throw open windows of the same application. I personal like to switch between windows using alt + tab without this grouping.
 
-`wget -O - https://raw.githubusercontent.com/andreasbehnke/my-gnome-preferences/refs/heads/main/gnome-settings.sh | bash`
+```wget -O - https://raw.githubusercontent.com/andreasbehnke/my-gnome-preferences/refs/heads/main/gnome-settings.sh | bash```
